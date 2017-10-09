@@ -1,6 +1,6 @@
 {	
 	"name": "devchuckcamp/php-chuck-mailer",
-	"version":"1.0",
+	"version":"1.0.0",
     "description": "The PHP Ligthweight Mailer framework",
     "keywords": ["framework", "phpmailer, mailer"],
     "license": "MIT",
